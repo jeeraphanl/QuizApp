@@ -12,16 +12,17 @@ QuizApp is a mobile application built with React Native and Expo that allows use
 ## Installation
 
 1. Clone the repository:
-```bash
+
+    ```bash
     git clone https://github.com/jeeraphanl/QuizApp.git
     cd QuizApp
 
 2. Install the dependencies:
-```bash
+    ```bash
     npm install
 
 3. Start the Expo development server:
-```bash
+    ```bash
     npx expo start    
 
 4. Use the Expo Go app on your mobile device or an emulator to scan the QR code and run the app.
