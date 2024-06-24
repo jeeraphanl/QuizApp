@@ -26,3 +26,10 @@ QuizApp is a mobile application built with React Native and Expo that allows use
     npx expo start    
 
 4. Use the Expo Go app on your mobile device or an emulator to scan the QR code and run the app.
+
+## Capture screen
+
+![Home Page](images/home.png)
+![Quize Page](images/quiz.png)
+![Quize Page](images/quiz2.png)
+![Lederboard Page](images/leaderboard.png)
